@@ -12,7 +12,7 @@ It helps identify operational trends, customer behavior, and business insights a
 ![Home Page](https://github.com/Rajni0327/PowerBi-Uber-Analytics-Dashboard/blob/main/homepage.png)
 
 ### 📈 Overview Page
-![Overview Page](assets/Over%20view%20page.png)
+![Overview Page](https://github.com/Rajni0327/PowerBi-Uber-Analytics-Dashboard/blob/main/Over%20view%20page.png)
 
 ### 🚗 Vehicle Page
 ![Vehicle Page](assets/vehicle%20page.png)
@@ -24,7 +24,7 @@ It helps identify operational trends, customer behavior, and business insights a
 ![Customer Page](assets/customer%20page.png)
 
 ### 📍 Location Page
-![Location Page](assets/location%20page.png)
+![Location Page](https://github.com/Rajni0327/PowerBi-Uber-Analytics-Dashboard/blob/main/location%20page.png))
 
 ---
 
